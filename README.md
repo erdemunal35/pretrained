@@ -33,8 +33,3 @@ $ pretrained install -o /tmp/mymodel PNASNet-5-Large
 ## Ideas
 
 This repo could be an insertion for [pretrainedmodels](https://github.com/cadene/pretrained-models.pytorch) even though the repo appears stale for about a year. However, it could be an independent project as well.
-
-## Libraries to user
-
-- use [click](https://click.palletsprojects.com/en/7.x/) for the command line interface
-- maybe use [pandas](https://pandas.pydata.org/pandas-docs/stable/) for the search results
